@@ -1,4 +1,6 @@
-## 💻 Meu nome é Rodrigo Melo, tenho 23 anos e moro em Itaí-SP
+## 💻 Meu nome é Rodrigo Melo, tenho 23 anos e moro em Itaí-SP 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melo-313a87142)](https://www.linkedin.com/in/rodrigo-melo-313a87142)
  
 ### 💬 O que eu faço:
 
