@@ -4,7 +4,7 @@
  
 ### 💬 O que eu faço:
 
-- Estou cursando Análise e Desenvolvimento de Sistemas.
+- Estou cursando Análise e Desenvolvimento de Sistemas, na Faculdade Eduvale de Avaré.
 
 - Desenvolvedor Frontend.
 
@@ -15,8 +15,8 @@
 
 <p align="center">
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/github.png" alt="Github" height="45"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/html.png" alt="HTML" height="45"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/css.png" alt="CSS" height="45"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/html.png" alt="HTML" height="50"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/css.png" alt="CSS" height="50"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/js.png" alt="Javascript" height="45"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/bootstrap.png" alt="Bootstrap" height="45"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/bootstrap.png" alt="Bootstrap" height="47"/>
  </p>
