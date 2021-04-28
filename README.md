@@ -10,7 +10,7 @@
 
 ### ❓ Curiosidade:
 
-- No momento estou estudando Javascript.
+- No momento estou estudando PHP.
 
 
 <p align="center">
