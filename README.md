@@ -14,10 +14,10 @@
 
 
 <p align="center">
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/github.png" alt="Github" height="47"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/html.png" alt="HTML" height="50"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/css.png" alt="CSS" height="50"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/js.png" alt="Javascript" height="45"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/bootstrap.png" alt="Bootstrap" height="47"/>
-<img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/php.png" alt="Javascript" height="45"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/github.png" alt="Github" height="50"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/html 1.png" alt="HTML" height="50"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/css 1.png" alt="CSS" height="50"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/js.png" alt="Javascript" height="50"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/bootstrap 1.png" alt="Bootstrap" height="50"/>
+<img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/php.png" alt="Javascript" height="50"/>
  </p>
