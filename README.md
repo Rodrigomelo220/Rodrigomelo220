@@ -20,5 +20,5 @@
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/js.png" alt="Javascript" height="60"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/bootstrap 2.png" alt="Bootstrap" height="60"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/php.png" alt="Javascript" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/mysql 1.png" alt="Javascript" height="60"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/mysql 1.png" alt="Mysql" height="60"/>
  </p>
