@@ -2,10 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melo-313a87142)](https://www.linkedin.com/in/rodrigo-melo-313a87142)
  
- <div>
-  <a href="https://github.com/Rodrigomelo220">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigomelo220&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigomelo220&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <a href="https://github.com/rodrigomelo220%22%3E
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigomelo220&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomelo220&layout=compact&langs_count=7&theme=dracula%22/%3E
   </a>
 </div>
 
