@@ -28,4 +28,5 @@
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/php.png" alt="Javascript" height="60"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/mysql 1.png" alt="Mysql" height="60"/>
  </p>
-
+ 
+ ![Snake animation](https://github.com/Rodrigomelo220/Rodrigomelo220/blob/output/github-contribution-grid-snake.svg)
