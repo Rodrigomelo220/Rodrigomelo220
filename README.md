@@ -29,4 +29,4 @@
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/mysql 1.png" alt="Mysql" height="60"/>
  </p>
  
- ![Snake animation](https://github.com/Rodrigomelo220/Rodrigomelo220/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Rodrigomelo220/rafaballerini/blob/output/github-contribution-grid-snake.svg)
