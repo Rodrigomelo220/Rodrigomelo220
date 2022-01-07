@@ -17,7 +17,7 @@
 
 ### ❓ Curiosidade:
 
-- No momento estou estudando PHP.
+- No momento estou estudando <strong> JavaScript </strong>.
 
 <p align="center">
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/github.png" alt="Github" height="60"/>
@@ -25,7 +25,7 @@
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/css 2.png" alt="CSS" height="60"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/js.png" alt="Javascript" height="60"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/bootstrap 2.png" alt="Bootstrap" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/php.png" alt="Javascript" height="60"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/php.png" alt="PHP" height="60"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/mysql 1.png" alt="Mysql" height="60"/>
  </p>
  
