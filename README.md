@@ -1,4 +1,4 @@
-## 💻 Meu nome é Rodrigo Melo, tenho 24 anos e moro em Itaí-SP
+## 💻 Olá, meu nome é Rodrigo Melo, tenho 24 anos e moro em Itaí-SP
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melo-313a87142)](https://www.linkedin.com/in/rodrigo-melo-313a87142)
  
@@ -25,8 +25,6 @@
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/css 2.png" alt="CSS" height="60"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/js.png" alt="Javascript" height="60"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/bootstrap 2.png" alt="Bootstrap" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/php.png" alt="PHP" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/mysql 1.png" alt="Mysql" height="60"/>
  </p>
  
  ![Snake animation](https://github.com/Rodrigomelo220/rafaballerini/blob/output/github-contribution-grid-snake.svg)
