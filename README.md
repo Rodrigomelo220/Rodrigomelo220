@@ -1,4 +1,4 @@
-## <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/pc.gif" alt="PC" height="20"/> Olá, meu nome é Rodrigo Melo, tenho 24 anos e moro em Itaí-SP
+## <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/helloWord.gif" alt="Hello Word!" height="60"/> Olá, meu nome é Rodrigo Melo, tenho 24 anos e moro em Itaí-SP
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melo-313a87142)](https://www.linkedin.com/in/rodrigo-melo-313a87142)
  
@@ -9,7 +9,7 @@
   </a>
 </div>
 
-### 💬 O que eu faço:  <p align="right" > <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/dev.gif" alt="Dev" height="60"/> </p>
+ <img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/dev.gif" alt="Dev" height="180"/> <h1>O que eu faço:</h1>
 
 - Estou cursando Análise e Desenvolvimento de Sistemas, na Faculdade Eduvale de Avaré.
 
