@@ -1,4 +1,4 @@
-## <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/helloWord.gif" alt="Hello Word!" height="60"/> Olá, meu nome é Rodrigo Melo, tenho 24 anos e moro em Itaí-SP
+## <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/pc.gif" alt="Hello Word!" height="60"/> Olá, meu nome é Rodrigo Melo, tenho 24 anos e moro em Itaí-SP
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melo-313a87142)](https://www.linkedin.com/in/rodrigo-melo-313a87142)
  
@@ -15,9 +15,13 @@
 
 - Desenvolvedor Frontend.
 
-### ❓ Curiosidade:
+</br>
+
+<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/pcPixel.gif" alt="pcPixel" height="160"/> <h1> Curiosidades: </h1>
 
 - <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/new.gif" alt="New" height="15"/> No momento estou estudando <strong> JavaScript </strong>. <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/new.gif" alt="New" height="15"/>
+
+<br>
 
 <p align="center">
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/vsCode.gif" alt="VSCode" height="60"/>
