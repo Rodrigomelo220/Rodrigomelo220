@@ -30,7 +30,7 @@
 <br>
  
  <p align="center">
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/developer.gif" alt="Developer" height="100"/>
+ 
 </p>
 
 <p align="center">
