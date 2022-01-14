@@ -9,7 +9,7 @@
   </a>
 </div>
 
- <img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/dev.gif" alt="Dev" height="180"/> <h1>O que eu faço:</h1>
+ <img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/dev.gif" alt="Dev" height="180"/> <h1>O que eu faço:</h1>
 
 - Estou cursando Análise e Desenvolvimento de Sistemas, na Faculdade Eduvale de Avaré.
 
@@ -18,7 +18,7 @@
 </br>
 </br>
 
-<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/lampada.gif" alt="pcPixel" height="180"/> <h1> Curiosidades: </h1>
+<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/lampada.gif" alt="pcPixel" height="180"/> <h1> Curiosidades: </h1>
 
 - No momento estou estudando <strong> JavaScript </strong>.
 
@@ -34,14 +34,14 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/vsCode.gif" alt="VSCode" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/git.gif" alt="Git" height="50"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/github.gif" alt="Github" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/html-5.gif" alt="HTML" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/css3.gif" alt="CSS" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/js.gif" alt="Javascript" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/bootstrap.gif" alt="Bootstrap" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/sublime.gif" alt="Sublime" height="60"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/vsCode.gif" alt="VSCode" height="60"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/git.gif" alt="Git" height="50"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/github.gif" alt="Github" height="60"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/html-5.gif" alt="HTML" height="60"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/css3.gif" alt="CSS" height="60"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/js.gif" alt="Javascript" height="60"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/bootstrap.gif" alt="Bootstrap" height="60"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/sublime.gif" alt="Sublime" height="60"/>
  </p>
   
   <a href="https://github.com/Rodrigomelo220/rafaballerini/blob/output/github-contribution-grid-snake.svg"><a>
