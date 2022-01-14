@@ -35,10 +35,10 @@
 
 <p align="center">
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/vsCode.png" alt="VSCode" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/git.png" alt="Git" height="50"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/git.png" alt="Git" height="60"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/github.png" alt="Github" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/html.png" alt="HTML" height="60"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/css.png" alt="CSS" height="60"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/html5b.png" alt="HTML" height="60"/>
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/cssb.png" alt="CSS" height="60"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/js.png" alt="Javascript" height="60"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/bootstrap.png" alt="Bootstrap" height="60"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/sublimeText.png" alt="Sublime" height="60"/>
