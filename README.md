@@ -44,6 +44,3 @@
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/sublimeText.png" alt="Sublime" height="60"/>
  </p>
   
-  <a href="https://github.com/Rodrigomelo220/rafaballerini/blob/output/github-contribution-grid-snake.svg"><a>
-  
- ![Snake animation](https://github.com/Rodrigomelo220/rafaballerini/blob/output/github-contribution-grid-snake.svg)
