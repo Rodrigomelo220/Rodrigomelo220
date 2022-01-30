@@ -18,7 +18,7 @@
 </br>
 </br>
 
-<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/lampada.gif" alt="pcPixel" height="180"/> <h1> Curiosidades: </h1>
+<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/exc_int.png" alt="pcPixel" height="165"/> <h1> Curiosidades: </h1>
 
 - No momento estou estudando <strong> JavaScript </strong>.
 
