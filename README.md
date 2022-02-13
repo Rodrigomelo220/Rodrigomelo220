@@ -11,7 +11,7 @@
 </div>
 
 
-<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/dev.gif" alt="Dev" height="180"/> <h1>O que eu faço:</h1>
+<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/dev.gif" alt="Dev" height="180"/> <h1>Sobre mim:</h1>
 
 - Formado em Análise e Desenvolvimento de Sistemas.
 
