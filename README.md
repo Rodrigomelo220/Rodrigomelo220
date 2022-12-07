@@ -45,6 +45,6 @@
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/github2w.png" alt="Github" height="50"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/js.png" alt="Javascript" height="50"/>
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/bootstrapw.png" alt="Bootstrap" height="50"/>
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/sublimeText.png" alt="Sublime" height="50"/>
+<!-- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/sublimeText.png" alt="Sublime" height="50"/> -->
  </p>
   
