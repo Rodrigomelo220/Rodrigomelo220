@@ -1,14 +1,8 @@
 <h1>Olá, meu nome é Rodrigo Melo, tenho 25 anos.</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melo-313a87142)](https://www.linkedin.com/in/rodrigo-melo-313a87142)  
- 
 
-<div>
-  <a align="center" href="https://github.com/Rodrigomelo220">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rodrigomelo220&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigomelo220&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+[![Rodrigomelo220's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigomelo220&theme=transparent)](https://github.com/Rodrigomelo220/github-readme-stats)
 
 
 <img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/dev.gif" alt="Dev" height="180"/> <h1>Sobre mim:</h1>
@@ -49,4 +43,6 @@
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/bootstrapw.png" alt="Bootstrap" height="50"/>
 <!-- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/sublimeText.png" alt="Sublime" height="50"/> -->
  </p>
-  
+ 
+ ![Snake animation](https://github.com/Rodrigomelo220/Rodrigomelo220/blob/output/github-contribution-grid-snake.svg)
+ 
