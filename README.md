@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melo-313a87142)](https://www.linkedin.com/in/rodrigo-melo-313a87142)  
 
-<div>
+<div align="center">
   <a href="https://github.com/Rodrigomelo220">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigomelo220&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigomelo220&layout=compact&langs_count=7&theme=transparent"/>
@@ -30,8 +30,10 @@
 <br>
 <br>
 
- ![Snake animation](https://github.com/Rodrigomelo220/Rodrigomelo220/blob/output/github-contribution-grid-snake.svg)
- 
+ <div align="center">
+ <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/output/github-contribution-grid-snake.svg" alt="" srcset="">
+ </div>
+  
  </br>
 
 <p align="center">
