@@ -1,4 +1,4 @@
-<h1>Olá, meu nome é Rodrigo Melo, tenho 25 anos e moro em Itaí-SP.</h1>
+<h1>Olá, meu nome é Rodrigo Melo, tenho 25 anos.</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melo-313a87142)](https://www.linkedin.com/in/rodrigo-melo-313a87142)  
  
@@ -16,6 +16,8 @@
 - Formado em Análise e Desenvolvimento de Sistemas.
 
 - Desenvolvedor Frontend.
+
+- Começando Carreira como Freelancer.
 
 </br>
 </br>
