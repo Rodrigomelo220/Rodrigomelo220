@@ -9,20 +9,27 @@
   </a>
 </div>
 
-<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/dev.gif" alt="Dev" height="180"/> <h1>Sobre mim:</h1>
+<div>
+<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/dev.gif" alt="Dev" height="200"/> <h1>Sobre mim:</h1>
 
-- Formado em Análise e Desenvolvimento de Sistemas.
+<p>&#x2022; Formado em Análise e Desenvolvimento de Sistemas.</p>
 
-- Desenvolvedor Frontend.
+<p>&#x2022; Desenvolvedor Frontend.</p>
 
-- Começando Carreira como Freelancer.
+<p>&#x2022; Começando Carreira como Freelancer.</p>
 
+<p>&#x2022; Inglês Técnico.</p>
+</div>
+  
 </br>
 </br>
 
-<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/int.gif" alt="pcPixel" height="130"/> <h1> Curiosidades: </h1>
+<div>
+<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/int.gif" alt="pcPixel" height="130" margim="40" /> <h1> Curiosidades: </h1>
 
-- No momento estou estudando <strong> JavaScript </strong>.
+<p>&#x2022; No momento estou estudando <strong> JavaScript </strong>.</p>
+  
+ </div>
 
 <br>
 <br>
