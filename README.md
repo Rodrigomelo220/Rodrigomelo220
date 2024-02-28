@@ -1,4 +1,4 @@
-<h1>Olá, meu nome é Rodrigo Melo, tenho 25 anos.</h1>
+<h1>Olá, meu nome é Rodrigo Melo, tenho 26 anos.</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melo-313a87142)](https://www.linkedin.com/in/rodrigo-melo-313a87142)  
 
@@ -16,8 +16,6 @@
 
 <p>&#x2022; Desenvolvedor Frontend.</p>
 
-<p>&#x2022; Começando Carreira como Freelancer.</p>
-
 <p>&#x2022; Inglês Técnico.</p>
 </div>
   
@@ -27,7 +25,7 @@
 <div>
 <img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/int.gif" alt="pcPixel" height="130" margim="40" /> <h1> Curiosidades: </h1>
 
-<p>&#x2022; No momento estou estudando <strong> JavaScript </strong>.</p>
+<p>&#x2022; No momento estou estudando <strong> JavaScript </strong> começando a mexer com <strong> React </strong>.</p>
   
  </div>
 
