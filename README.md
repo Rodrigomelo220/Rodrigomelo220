@@ -1,7 +1,5 @@
 <h1 align="center">👋 Olá, mundo!</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melo-313a87142)](https://www.linkedin.com/in/rodrigo-melo-313a87142)  
-
 <div>
 <h4 align="center" >Sou Rodrigo Melo, um entusiasta da tecnologia apaixonado por transformar linhas de código em soluções inovadoras. Com um background em desenvolvimento Front-end, estou constantemente explorando novas fronteiras e aprimorando minhas habilidades..</h4>
 </div>
@@ -23,8 +21,8 @@
 
 <div>
   <h1 align="center">Onde me encontrar:</h1>
-  <p align="center">&#x2022;💼 LinkedIn:</p>
-</div>
+  <p align="center">&#x2022;💼 LinkedIn: </p></div> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melo-313a87142)](https://www.linkedin.com/in/rodrigo-melo-313a87142)
+
 
 <br>
 <br>
