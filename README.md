@@ -1,33 +1,30 @@
-<h1>Olá, meu nome é Rodrigo Melo, tenho 26 anos.</h1>
+<h1 align="center">👋 Olá, mundo!</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melo-313a87142)](https://www.linkedin.com/in/rodrigo-melo-313a87142)  
 
-<div align="center">
-  <a href="https://github.com/Rodrigomelo220">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigomelo220&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigomelo220&layout=compact&langs_count=7&theme=transparent"/>
-  </a>
-</div>
-
 <div>
-<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/dev.gif" alt="Dev" height="200"/> <h1>Sobre mim:</h1>
-
-<p>&#x2022; Formado em Análise e Desenvolvimento de Sistemas.</p>
-
-<p>&#x2022; Desenvolvedor Frontend.</p>
-
-<p>&#x2022; Inglês Técnico.</p>
+<h4 align="center" >Sou Rodrigo Melo, um entusiasta da tecnologia apaixonado por transformar linhas de código em soluções inovadoras. Com um background em desenvolvimento Front-end, estou constantemente explorando novas fronteiras e aprimorando minhas habilidades..</h4>
 </div>
   
 </br>
 </br>
 
 <div>
-<img align="left" src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Gif/int.gif" alt="pcPixel" height="130" margim="40" /> <h1> Curiosidades: </h1>
+<h1 align="center"> O que eu faço: </h1>
 
-<p>&#x2022; No momento estou estudando <strong> JavaScript </strong> começando a mexer com <strong> React </strong>.</p>
-  
- </div>
+<p align="center">&#x2022;Desenvolvimento de software com ênfase em JavaScript, React.</p>
+<p  align="center">&#x2022;Colaboração em projetos de código aberto para contribuir com a comunidade e aprender continuamente.</p>
+</div>
+
+<div>
+  <h1 align="center">Interesses:</h1>
+  <p align="center">&#x2022;🚀 Desenvolvimento web.</p>
+</div>
+
+<div>
+  <h1 align="center">Onde me encontrar:</h1>
+  <p align="center">&#x2022;💼 LinkedIn:</p>
+</div>
 
 <br>
 <br>
@@ -36,7 +33,7 @@
 <br>
 
  <div align="center">
- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/output/github-contribution-grid-snake.svg" alt="" srcset="">
+ <h4 align="center">Vamos construir algo incrível juntos! 🚀</h4>
  </div>
   
  </br>
