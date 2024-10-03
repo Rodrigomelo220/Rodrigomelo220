@@ -7,9 +7,8 @@
 <div>
 <h1 align="center"> O que eu faço: </h1>
 
-<p align="center">&#x2022;Desenvolvimento Web Fornt-end com ênfase em JavaScript, React.</p>
-<p align="center">&#x2022;No momento estou estudando JavaScript, começando a desbravar o React.</p>
-<p  align="center">&#x2022;Colaboração em projetos de código aberto para contribuir com a comunidade e aprender continuamente.</p>
+<p align="center">&#x2022;Desenvolvimento Web Fornt-end com ênfase em JavaScript.</p>
+<p align="center">&#x2022;No momento estou estudando JavaScript.</p>
 </div>
 
 <div>
