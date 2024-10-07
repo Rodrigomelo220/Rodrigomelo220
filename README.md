@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, mundo!</h1>
 
 <div>
-<h4 align="center" >Sou <strong>Rodrigo Melo</strong>, um entusiasta da tecnologia apaixonado por transformar linhas de código em soluções inovadoras. Com um background em desenvolvimento <strong>Web Front-end</strong>, estou constantemente explorando novas fronteiras e aprimorando minhas habilidades.</h4>
+<h4 align="center" >Sou <strong>Rodrigo Melo</strong>, um entusiasta da tecnologia gosto de transformar linhas de código em soluções inovadoras. Com um background em desenvolvimento <strong>Web Front-end</strong>, estou constantemente explorando novas fronteiras e aprimorando minhas habilidades.</h4>
 </div>
   
 <div>
@@ -9,12 +9,6 @@
 
 <p align="center">&#x2022;Desenvolvimento Web Fornt-end com ênfase em JavaScript.</p>
 <p align="center">&#x2022;No momento estou estudando JavaScript.</p>
-</div>
-
-<div>
-  <h1 align="center">Interesses:</h1>
-  <p align="center">&#x2022;🚀 Desenvolvimento web.</p>
-  <p align="center">&#x2022;🤖 Inteligência Artificial</p>
 </div>
 
 <div>
