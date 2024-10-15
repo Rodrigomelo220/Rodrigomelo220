@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, mundo!</h1>
 
 <div>
-<h4 align="center" >Sou <strong>Rodrigo Melo</strong>,gosto de transformar linhas de código em soluções inovadoras. Com um background em desenvolvimento <strong>Web Front-end</strong>, estou constantemente explorando novas fronteiras e aprimorando minhas habilidades.</h4>
+<h4 align="center" >Sou <strong>Rodrigo Melo</strong>, gosto de transformar linhas de código em soluções inovadoras. Com um background em desenvolvimento <strong>Web Front-end</strong>, estou constantemente explorando novas fronteiras e aprimorando minhas habilidades.</h4>
 </div>
   
 <div>
