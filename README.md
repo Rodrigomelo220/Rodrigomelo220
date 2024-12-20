@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, mundo!</h1>
+<h1 align="center">Olá, mundo!</h1>
 
 <div>
-<h4 align="center" >Sou <strong>Rodrigo Melo</strong>, Desenvolvedor Frontend | HTML5, CSS3, Bootstrap | Focado em Design Responsivo e Experiência do Usuário.</h4>
+<h4 align="center" >Desenvolvedor Frontend | HTML5, CSS3, Bootstrap | Focado em Design Responsivo e Experiência do Usuário.</h4>
 </div>
   
 <div>
