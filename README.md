@@ -16,7 +16,7 @@
 <br>
 
  <div align="center">
- <h4 align="center">Vamos construir algo incrível juntos! 🚀</h4>
+ <h4 align="center">Vamos programar! 🚀</h4>
  </div>
   
  </br>
