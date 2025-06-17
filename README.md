@@ -1,23 +1,51 @@
-<h1 align="center">Olá, mundo!</h1>
+# 👋 Olá, eu sou o Rodrigo Melo!
 
-<div>
-<h4 align="center" >Desenvolvedor Frontend | HTML5, CSS3, Bootstrap | Focado em Design Responsivo e Experiência do Usuário.</h4>
-</div>
-  
-<div>
-<h1 align="center"> O que eu faço: </h1>
-<p align="center">&#x2022;No momento estou estudando JavaScript.</p>
-</div>
+Sou Desenvolvedor Frontend Júnior (PCD), apaixonado por criar interfaces acessíveis, responsivas e com boa performance. Estou sempre buscando melhorar minhas habilidades e contribuir com projetos que gerem impacto positivo.
 
-<div>
-  <h1 align="center">Onde me encontrar:</h1>
-  <p align="center">&#x2022;💼 LinkedIn: <a href="https://www.linkedin.com/in/rodrigo-melo-313a87142">Rodrigo Melo</a></p></div>
+🎯 Meu objetivo é conquistar minha primeira oportunidade na área de desenvolvimento web, atuando de forma remota ou híbrida, com foco em boas práticas de código e versionamento.
 
-<br>
+---
 
- <div align="center">
- <h4 align="center">Vamos programar! 🚀</h4>
- </div>
+## 🛠️ Tecnologias que uso:
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript (básico/intermediário)
+- Git e GitHub
+
+---
+
+## 🚀 Projetos em Destaque:
+
+- [🌐 Edutech Solutions](https://edutechsolutions.com.br)  
+Site para a empresa Edutech.
+
+---
+
+## 📈 Minhas estatísticas no GitHub:
+
+![Rodrigo Melo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrigomelo220&show_icons=true&theme=radical)
+
+---
+
+## 📫 Onde me encontrar:
+
+- E-mail: rodrigomelo220@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/rodrigomelo220](https://www.linkedin.com/in/rodrigomelo220)
+
+---
+
+## 👀 Sobre mim:
+
+🧑‍💻 Atualmente estudando no curso Full Stack JavaScript da OneBitCode.  
+📚 Concluí formações de HTML5, CSS3 e Bootstrap pela mesma plataforma.  
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Eduvale Avaré (2021).  
+🤝 Aberto a conexões profissionais, colaborações e indicações para vagas.
+
+---
+
+*Obrigado por visitar meu perfil!*
   
  </br>
 
