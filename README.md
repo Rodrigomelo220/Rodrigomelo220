@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Rodrigo Melo!
 
-Sou Desenvolvedor Frontend Júnior (PCD), apaixonado por criar interfaces acessíveis, responsivas e com boa performance. Estou sempre buscando melhorar minhas habilidades e contribuir com projetos que gerem impacto positivo.
+Sou Desenvolvedor Frontend Júnior (PCD) com experiência em desenvolvimento de interfaces web acessíveis, responsivas e com foco em performance. Tenho conhecimento em HTML5, CSS3, Bootstrap 5 e JavaScript (básico/intermediário), além de boas práticas de versionamento com Git e GitHub.
 
-🎯 Meu objetivo é conquistar minha primeira oportunidade na área de desenvolvimento web, atuando de forma remota ou híbrida, com foco em boas práticas de código e versionamento.
+🎯 Buscando minha primeira oportunidade profissional na área de desenvolvimento web, com interesse em vagas remotas ou híbridas.
 
 ---
 
@@ -19,7 +19,7 @@ Sou Desenvolvedor Frontend Júnior (PCD), apaixonado por criar interfaces acess�
 ## 🚀 Projetos em Destaque:
 
 - [🌐 Edutech Solutions](https://edutechsolutions.com.br)  
-Site para a empresa Edutech.
+Site institucional para a empresa Edutech Solutions.
 
 ---
 
@@ -36,12 +36,23 @@ Site para a empresa Edutech.
 
 ---
 
-## 👀 Sobre mim:
+## 🎓 Formação Acadêmica:
 
-🧑‍💻 Atualmente estudando no curso Full Stack JavaScript da OneBitCode.  
-📚 Concluí formações de HTML5, CSS3 e Bootstrap pela mesma plataforma.  
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Eduvale Avaré (2021).  
-🤝 Aberto a conexões profissionais, colaborações e indicações para vagas.
+- **Análise e Desenvolvimento de Sistemas – Faculdade Eduvale Avaré (2021)**
+
+---
+
+## 📚 Cursos Complementares:
+
+- **Full Stack JavaScript (em andamento) – OneBitCode**
+- **HTML5 e CSS3 – OneBitCode**
+- **Bootstrap 5 – OneBitCode**
+
+---
+
+## 🤝 Sobre Mim:
+
+Atualmente estou focado em aprimorar minhas habilidades em JavaScript, Git e desenvolvimento frontend. Sou proativo, organizado e estou em busca de um ambiente onde eu possa crescer como desenvolvedor.
 
 ---
 
