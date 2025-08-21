@@ -2,7 +2,7 @@
 
 Sou Desenvolvedor Frontend Júnior (PCD) com experiência em desenvolvimento de interfaces web acessíveis, responsivas e com foco em performance. Tenho conhecimento em HTML5, CSS3, Bootstrap 5 e JavaScript (básico/intermediário), além de boas práticas de versionamento com Git e GitHub.
 
-🎯 Buscando minha primeira oportunidade profissional na área de desenvolvimento web, com interesse em vagas remotas ou híbridas.
+🎯 Buscando oportunidade profissional na área de desenvolvimento web, com interesse em vagas remotas ou híbridas.
 
 ---
 
