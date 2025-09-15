@@ -23,12 +23,6 @@ Site institucional para a empresa Edutech Solutions.
 
 ---
 
-## 📈 Minhas estatísticas no GitHub:
-
-![Rodrigo Melo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrigomelo220&show_icons=true&theme=radical)
-
----
-
 ## 📫 Onde me encontrar:
 
 - E-mail: rodrigomelo220@gmail.com
