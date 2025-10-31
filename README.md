@@ -50,7 +50,7 @@ Atualmente estou focado em aprimorar minhas habilidades em JavaScript, Git e des
 
 ---
 
-*Obrigado por visitar meu perfil!*
+
   
  </br>
 
@@ -63,3 +63,4 @@ Atualmente estou focado em aprimorar minhas habilidades em JavaScript, Git e des
  <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/bootstrapw.png" alt="Bootstrap" height="50"/>
 <!-- <img src="https://github.com/Rodrigomelo220/Rodrigomelo220/blob/main/.github/images/Icons/sublimeText.png" alt="Sublime" height="50"/> -->
  </p>
+ <p align = "center" >Obrigado por visitar meu perfil!</p>
