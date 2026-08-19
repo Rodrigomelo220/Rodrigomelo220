@@ -11,7 +11,7 @@ Sou Desenvolvedor Frontend Júnior (PCD) com experiência em desenvolvimento de 
 - HTML5
 - CSS3
 - Bootstrap 5
-- JavaScript (básico/intermediário)
+- JavaScript
 - Git e GitHub
 
 ---
